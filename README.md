@@ -9,8 +9,7 @@ Esta página está hospedada em dois locais como prova de conceito de implantaç
 * **Versão Principal (Vercel):** `https://klimek-solutions.vercel.app/`
 * **Versão Secundário (Vercel):** `https://igor-klimek.vercel.app/`
 * **Versão GitHub Pages:** `https://klimek-dev.github.io/link-bio/`
-    *(Nota: Assumindo que o seu repositório se chama 'link-bio'. Se o nome for outro, é só ajustar o link!)*
-
+    
 ---
 
 ## 💼 Propósito do Portfólio
